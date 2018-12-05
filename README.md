@@ -1,4 +1,5 @@
-# y
+# tinymce 富文本编辑器
+本项目将tinymce和vue-cli整合到一起 将其封装成可以复用的组件 可结合实际业务后台返回数据对response进行修改
 
 > A Vue.js project
 
